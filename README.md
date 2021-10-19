@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Tunahan ALTINTOP (@tunahanaltintop)
+- 👀 I’m interested in Java, Spring, Hibernate, MVC, JSF, Primefaces, Wicket, AI, Machine Learning etc..
+- 🌱 I’m currently learning Microservices, React, Vue, etc..
+- 💞️ I’m looking to collaborate on open source projects and large scale organization projects.
+- 📫 Reach me on LinkedIn, Twitter etc.. with @tunahanaltintop 
